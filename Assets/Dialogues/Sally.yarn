@@ -1,0 +1,47 @@
+title: Start
+tags: 
+colorID: 0
+position: 1095,461
+---
+Hello, how's it going today?
+
+[[ It's going swell! |swell]]
+[[ Actually, that's a complicated question...|complicated]]
+===
+title: swell
+tags: 
+colorID: 0
+position: 1326,717
+---
+Oh lovely! So glad to hear you're alright... after everything that happened..
+[[ Eat a Frog: |frog]]
+[[ Eat a Shoe: |shoe]]
+===
+title: complicated
+tags: 
+colorID: 0
+position: 849,747
+---
+Well, I'm sorry to hear that.  It do be like that sometimes.
+===
+title: Grandma
+tags: 
+colorID: 0
+position: 751,311
+---
+Hello deary, let me tell you all about the days of my youth..
+===
+title: frog
+tags: 
+colorID: 0
+position: 1230,1113
+---
+A bite quishy?🤙
+===
+title: shoe
+tags: 
+colorID: 0
+position: 1587,1085
+---
+That is supper chewie😬
+===

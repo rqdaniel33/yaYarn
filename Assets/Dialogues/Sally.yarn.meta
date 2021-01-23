@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: dd22e84205055264995684c78f8c2866
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Sally-Start-0
+  - Sally-Start-1
+  - Sally-Start-2
+  - Sally-Start-3
+  - Sally-Start-4
+  - Sally-unknown-5
+  - Sally-knowledge-6
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []
